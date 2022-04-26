@@ -6,8 +6,8 @@ import jessicaImg from '../images/xwoner.png';
       
     <section id='section-booking' className='container'>
         <div className='row'>
-            <div className='col-12 col-sm-12 col-md-6'>
-                <img src={ jessicaImg } alt='Jessica Lynn' />
+            <div className='col-12 col-sm-12 col-md-6 mb-5 mb-sm-5 mb-md-0 mb-lg-0'>
+                <img className='w-100' src={ jessicaImg } alt='Jessica Lynn' />
             </div>
             <div className='col-12 col-sm-12 col-md-6'>
                 <div className='row'>
